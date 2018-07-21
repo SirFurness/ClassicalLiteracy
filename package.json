@@ -1,0 +1,19 @@
+{
+  "name": "classicalliteracy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirFurness/ClassicalLiteracy.git"
+  },
+  "author": "Eric P.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirFurness/ClassicalLiteracy/issues"
+  },
+  "homepage": "https://github.com/SirFurness/ClassicalLiteracy#readme"
+}
